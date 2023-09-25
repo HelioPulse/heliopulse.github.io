@@ -1,5 +1,5 @@
 ![logo](_media/logo.png)
 
-# heliopulse.ai
+# HelioPulse
 
 > coming soon
